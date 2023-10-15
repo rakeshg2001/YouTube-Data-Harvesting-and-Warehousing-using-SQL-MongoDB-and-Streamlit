@@ -56,7 +56,7 @@ Select the "DATA ANALYSIS" option to perform various data analysis queries, such
 Environment Variables
 Environment variables are dynamic-named values that affect the way processes run on a computer.
 They are part of the environment in which a process runs.
-Each environment variable is typically composed of a name and a value, e.g., DATABASE_URL with a value like http://localhost:8502/
+Each environment variable is typically composed of a name and a value, e.g., DATABASE_URL with a value like .
 
 
 LINK
